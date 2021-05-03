@@ -3,7 +3,7 @@
 # CSCB58 Winter 2021 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Eric Zhou, 1006170064, zhoueri3
+# Student: Eric Zhou
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8 (update this as needed)
@@ -20,7 +20,7 @@
 # Which approved features have been implemented for milestone 4?
 # (See the assignment handout for the list of additional features)
 # 1. Smooth graphics (only erasing & updating blocks that need to be erased)
-# 2. Add ìpick-upsî  (adding snacks which freezes the obstacles (The World) and hp snack which increases hp by 10%=3 bars)
+# 2. Add ‚Äúpick-ups‚Äù  (adding snacks which freezes the obstacles (The World) and hp snack which increases hp by 10%=3 bars)
 # 3. Scoring system (Score = # of snacks ate  MAX=99)
 #
 # Link to video demonstration for final submission:
